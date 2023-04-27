@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slafconf", "slafconf\slafconf.csproj", "{F381EB1D-E6AF-4854-9F2E-A9DBDF46498E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{DCDE3167-1C30-4C53-907D-83A375F0C336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F381EB1D-E6AF-4854-9F2E-A9DBDF46498E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F381EB1D-E6AF-4854-9F2E-A9DBDF46498E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F381EB1D-E6AF-4854-9F2E-A9DBDF46498E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F381EB1D-E6AF-4854-9F2E-A9DBDF46498E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDE3167-1C30-4C53-907D-83A375F0C336}.Debug|Any CPU.ActiveCfg = Debug
+		{DCDE3167-1C30-4C53-907D-83A375F0C336}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://135.22.10.107:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = slafconf\\slafconf.csproj
+		SccProjectName1 = slafconf
+		SccLocalPath1 = slafconf
+	EndGlobalSection
+EndGlobal
